@@ -1,0 +1,1 @@
+2020/11/09 11:26:06 [error] 7#7: *56 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.19.0.1, server: localhost, request: "GET /variable/humans.php?name=Alexandre HTTP/1.1", upstream: "fastcgi://172.19.0.4:9000", host: "localhost:2018"
